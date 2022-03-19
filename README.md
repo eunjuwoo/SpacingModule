@@ -1,9 +1,14 @@
 # SpacingModule
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
 
-## Requirement
-* Python version > 3.x (Recommend Anaconda)
-* [Tensorflow](https://tensorflow.org, "Tensorflow link") version > 2.x
+## Environment Setting
+* Python version > 3.6.13 (Recommend Anaconda)
+* [Tensorflow](https://tensorflow.org, "Tensorflow link") tensorflow-gpu version > 2.3.0 
+* AWS Environment
+   * [GPU Tesla M60](https://images.nvidia.com/content/pdf/tesla/tesla-m60-product-brief.pdf, "GPU Tesla M60 Spec")
+     : The Tesla M60 has 16 GB GDDR5 memory (8 GB per GPU) and a 300 W maximum power limit. 
+   * Memory 128GB
+   * CPU 16 core
 
 ## Methodelogy
 ### Generate corpus.
