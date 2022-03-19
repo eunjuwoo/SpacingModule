@@ -1,7 +1,7 @@
 # SpacingModule
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
 
-Korean sentence spacing module is based on Deep Learning model(bi-LSTM) trained from small corpus. This module is a package that converts non-spaced sentences into spaced sentences through the published model. Also, You can use this module to train yourself.
+Korean sentence spacing module is based on Deep Learning model(bi-LSTM) trained from small corpus. This module is a package that converts non-spaced sentences into spaced sentences through the published model(exp0_KoreanSpacingModule_BiLSTM). Also, You can use this module to train yourself.
 
 ## Environment Setting
 * Python version > 3.6.13 (Recommend Anaconda)
