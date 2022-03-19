@@ -20,7 +20,11 @@
  ### Train Neural Network
   You can set the data path (train_fn/test_fn/val_fn) in train.py
   ```
-    python train.py -e [int, epochs] -l [float, learning_rate] -b [int, batch_size] -a [str, activation_function] -c [int, experiment_count]
+    python train.py -e [int, epochs] \
+                    -l [float, learning_rate] \
+                    -b [int, batch_size] \
+                    -a [str, activation_function] \
+                    -c [int, experiment_count]
   ```
  ### Test model
    ```
