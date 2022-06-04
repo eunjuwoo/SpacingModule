@@ -37,4 +37,6 @@ Korean sentence spacing module is based on Deep Learning model(bi-LSTM) trained 
    ```
     python test.py
    ```
+ ### Reference 
+  1. https://jins-sw.tistory.com/m/37
 ----------------------------------------------------------------------------------------------------------------------------
